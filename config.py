@@ -1,0 +1,25 @@
+BOT_TOKEN = "1770575166:AAEZPmaelBrNW2tvPCgusrZwT7Qhwu5fReY"  # Your token
+URL_APPLES = "https://rozetka.com.ua/champion_a00225/p27223057"
+URL_PEAR = "https://freshmart.com.ua/product/yabloko-gala-116.html"
+URL_news= "https://freshmart.com.ua/product/yabloko-gala-116.html"
+url_me="https://tlgg.ru/@zzzelar"
+url_donate="https://www.tinkoff.ru/cf/8fxcEmbLZ7A"
+url_plov="https://povar.ru/recipes/plov_na_skoruiu_ruku-14555.html"
+url_borch='https://povar.ru/recipes/borsh_na_skoruiu_ruku-14552.html'
+url_sup="https://povar.ru/recipes/sup_krestyanskii_na_skoruiu_ruku-14500.html"
+url_makSm="https://povar.ru/recipes/makarony_s_myasom-10810.html"
+url_makSsh="https://povar.ru/recipes/makarony_s_shampinonami-13529.html"
+url_salvlav="https://povar.ru/recipes/salat_v_lavashe-5573.html"
+url_gsup="https://povar.ru/recipes/gorohovyi_sup_osennii-63668.html"
+url_cez='https://povar.ru/recipes/salat_cezar_s_kuricei_s_pomidorami-14617.html'
+url_oliv="https://povar.ru/recipes/salat_olive_klassicheskii_s_kolbasoi-41597.html"
+url_mplov="https://povar.ru/recipes/plov_s_kuricei_v_multivarke-10147.html"
+url_shava="https://povar.ru/recipes/shaurma_klassicheskii_recept-47639.html"
+url_dran="https://povar.ru/recipes/draniki_master-klass-62334.html"
+url_kor="https://povar.ru/recipes/morkov_po-koreiski_koreiskaya_morkovka-207.html"
+url_kfc='https://www.kfc.ru/coupons'
+url_bk='https://burgerkings.ru/kupon/'
+url_mc='https://promokodi.net/store/mcdonalds/?ncc=1'
+url_vill="https://promokodi.net/store/vkusvill/"
+url_belca="https://promokodi.net/store/belkacar/"
+url_ya="https://promokodi.net/store/yandex-drive/"
